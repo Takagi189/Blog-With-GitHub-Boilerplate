@@ -11,7 +11,7 @@ archives_page_size = 20
 template = {
     "name": "Galileo",
     "type": "local",
-    "path": "../banbendalao"
+    "path": "../Galileo"
 }
 enable_jsdelivr = {
     "enabled": True,
