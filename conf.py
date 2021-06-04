@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "Takagi189/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "Takagi189/Takagi189.github.io@gh-pages"
 }
 
 # 站点设置
@@ -24,7 +24,7 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "LeeJie120s"
 email = "takagi@189.cn"
-author_homepage = "https://takagi189.github.io/Blog-With-GitHub-Boilerplate/archives/typography/"
+author_homepage = "https://takagi189.github.io/archives/typography/"
 description = "这个世界很简单。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
