@@ -2,9 +2,9 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2021/06/04 17:26:00
 status: publish
-author: AlanDecode
+author: LeeJie120s
 categories: 
   - Maverick
   - Dev
@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: takagi#189.cn (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+QQ：1403715047
