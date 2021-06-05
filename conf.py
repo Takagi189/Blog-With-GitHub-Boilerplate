@@ -21,10 +21,10 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "关于广告"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2020-06-06T01:10+08:00"
 author = "LeeJie120s"
 email = "takagi@189.cn"
-author_homepage = "https://takagi189.github.io/archives/typography/"
+author_homepage = "/"
 description = "这个世界很简单。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
