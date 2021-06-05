@@ -19,7 +19,7 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "关于广告"
+site_name = "Takagi"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-06-06T01:10+08:00"
 author = "LeeJie120s"
