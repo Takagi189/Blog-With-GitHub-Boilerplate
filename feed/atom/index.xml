@@ -1,3 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Takagi</title><updated>2021-06-06T07:38:10.115440+08:06</updated><author><name>LeeJie120s</name><email>takagi@189.cn</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/Takagi189/Takagi189.github.io@gh-pages/logo.png</logo><subtitle>这个世界很简单。</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2021-06-06T07:38:10.115506+00:00</updated><author><name>AlanDecode</name><email>takagi@189.cn</email><uri>/</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h1&gt;关于广告&lt;/h1&gt;
-</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Takagi</title><updated>2021-06-06T07:40:42.020662+08:06</updated><author><name>LeeJie120s</name><email>takagi@189.cn</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/Takagi189/Takagi189.github.io@gh-pages/logo.png</logo><subtitle>这个世界很简单。</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2021-06-06T07:40:42.020761+00:00</updated><author><name>AlanDecode</name><email>takagi@189.cn</email><uri>/</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h1&gt;关于广告&lt;/h1&gt;
+</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/1/</id><title>你不知道的故事</title><updated>2021-06-06T07:40:42.020717+00:00</updated><author><name>LeeJie120s</name><email>takagi@189.cn</email><uri>/</uri></author><content>&lt;p&gt;那是在一如往常的一天发生的的事情&lt;br&gt;
+你突然站起来说到&lt;br&gt;
+今晚去看星星吧&lt;br&gt;
+你偶尔也会说点好话嘛&lt;br&gt;
+大家如此打趣着如此欢笑着&lt;br&gt;
+在没有灯火的道路上&lt;br&gt;
+像笨蛋一样有说有笑的走着&lt;br&gt;
+是为了不让自己&lt;br&gt;
+因心中的孤独与不安而崩溃&lt;br&gt;
+从漆黑的世界仰望夜空&lt;br&gt;
+就像群星陨落一般&lt;br&gt;
+不知从什么时候开始&lt;br&gt;
+我一直在追逐你的身影&lt;br&gt;
+求求你不要感到惊讶&lt;br&gt;
+听我述说我的这份心意&lt;br&gt;
+那是天鹅座α牵牛星织女星&lt;br&gt;
+你伸出手指着夏日大三角&lt;br&gt;
+我暗自的记下仰望着星空&lt;br&gt;
+终于找到了织女星&lt;br&gt;
+可牛郎星又在哪里&lt;br&gt;
+这样的话就孤单一人&lt;br&gt;
+面对旁边如此快乐的你&lt;br&gt;
+我却什么也说不出口&lt;br&gt;&lt;/p&gt;
+</content><link href="/archives/1/" rel="alternate"/><published>2021-06-06T15:40:00+08:06</published></entry></feed>
