@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Takagi</title><updated>2021-06-06T07:43:53.389794+08:06</updated><author><name>LeeJie120s</name><email>takagi@189.cn</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/Takagi189/Takagi189.github.io@gh-pages/logo.png</logo><subtitle>这个世界很简单。</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2021-06-06T07:43:53.389906+00:00</updated><author><name>AlanDecode</name><email>takagi@189.cn</email><uri>/</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h1&gt;关于广告&lt;/h1&gt;
-</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/1/</id><title>你不知道的故事</title><updated>2021-06-06T07:43:53.389848+00:00</updated><author><name>LeeJie120s</name><email>takagi@189.cn</email><uri>/</uri></author><content>&lt;p&gt;那是在一如往常的一天发生的事情&lt;br&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>Takagi</title><updated>2021-06-06T07:54:39.570372+08:06</updated><author><name>LeeJie120s</name><email>takagi@189.cn</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/Takagi189/Takagi189.github.io@gh-pages/logo.png</logo><subtitle>这个世界很简单。</subtitle><entry><id>/archives/typography/</id><title>Hello World!</title><updated>2021-06-06T07:54:39.570549+00:00</updated><author><name>AlanDecode</name><email>takagi@189.cn</email><uri>/</uri></author><content>&lt;div class="notice"&gt;这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！&lt;/div&gt;&lt;h1&gt;关于广告&lt;/h1&gt;
+</content><link href="/archives/typography/" rel="alternate"/><published>2019-12-18T16:50:00+08:06</published></entry><entry><id>/archives/1/</id><title>你不知道的故事</title><updated>2021-06-06T07:54:39.570517+00:00</updated><author><name>LeeJie120s</name><email>takagi@189.cn</email><uri>/</uri></author><content>&lt;p&gt;那是在一如往常的一天发生的事情&lt;br&gt;
 你突然站起来说到&lt;br&gt;
 今晚去看星星吧&lt;br&gt;
 你偶尔也会说点好话嘛&lt;br&gt;
@@ -23,4 +23,13 @@
 这样的话就孤单一人&lt;br&gt;
 面对旁边如此快乐的你&lt;br&gt;
 我却什么也说不出口&lt;br&gt;&lt;/p&gt;
-</content><link href="/archives/1/" rel="alternate"/><published>2021-06-06T15:40:00+08:06</published></entry></feed>
+</content><link href="/archives/1/" rel="alternate"/><published>2021-06-06T15:40:00+08:06</published></entry><entry><id>/archives/2/</id><title>DPlayer</title><updated>2021-06-06T07:54:39.570442+00:00</updated><author><name>LeeJie120s</name><email>takagi@189.cn</email><uri>/</uri></author><content>&lt;p&gt;Thanks to &lt;a href="http://dplayer.js.org/"&gt;DPlayer&lt;/a&gt;, you can easily insert beautiful video player into your posts:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[dplayer]https://path/to/veideo.mp4[/dplayer]&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You can add more options to it like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[dplayer data-theme="#b7daff"]https://path/to/video.mp4[/dplayer]&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Checkout more options &lt;a href="http://dplayer.js.org/guide.html"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;DEMO演示&lt;/h3&gt;
+&lt;div class="dplayer"  data-theme="#b7daff" data-url="https://pro-video.xiaoheiban.cn/202106/93390f21-e821-49e6-87e3-761ac39bc7be.mp4"&gt;&lt;/div&gt;&lt;p&gt;比较不错的科普视频，有趣生动的通过一些数据对比来给出一个相对靠谱的陆地1v1单挑排名。&lt;/p&gt;
+</content><link href="/archives/2/" rel="alternate"/><published>2021-06-06T15:54:00+08:06</published></entry></feed>
