@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Takagi</title><link>/</link><description>这个世界很简单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/Takagi189/Takagi189.github.io@gh-pages/logo.png</url><title>Takagi</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 20 Jun 2021 04:35:11 +0806</lastBuildDate><pubDate>Sun, 20 Jun 2021 04:35:11 +0806</pubDate><item><title>你不知道的故事</title><link>/archives/1/</link><description>&lt;p&gt;那是在一如往常的一天发生的事情&lt;br&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Takagi</title><link>/</link><description>这个世界很简单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/Takagi189/Takagi189.github.io@gh-pages/logo.png</url><title>Takagi</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 20 Jun 2021 04:41:27 +0806</lastBuildDate><pubDate>Sun, 20 Jun 2021 04:41:27 +0806</pubDate><item><title>你不知道的故事</title><link>/archives/1/</link><description>&lt;p&gt;那是在一如往常的一天发生的事情&lt;br&gt;
 你突然站起来说道&lt;br&gt;
 今晚去看星星吧&lt;br&gt;
 你偶尔也会说点好话嘛&lt;br&gt;
@@ -31,4 +31,48 @@
 &lt;p&gt;Checkout more options &lt;a href="http://dplayer.js.org/guide.html"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h3&gt;DEMO演示&lt;/h3&gt;
 &lt;div class="dplayer"  data-theme="#b7daff" data-url="https://pro-video.xiaoheiban.cn/202106/93390f21-e821-49e6-87e3-761ac39bc7be.mp4"&gt;&lt;/div&gt;&lt;p&gt;比较不错的科普视频，有趣生动的通过一些数据对比来给出一个相对靠谱的陆地1v1单挑排名。&lt;/p&gt;
-</description><author>takagi@189.cn (LeeJie120s)</author><guid isPermaLink="true">/archives/2/</guid><pubDate>Sun, 06 Jun 2021 15:54:00 +0806</pubDate></item></channel></rss>
+</description><author>takagi@189.cn (LeeJie120s)</author><guid isPermaLink="true">/archives/2/</guid><pubDate>Sun, 06 Jun 2021 15:54:00 +0806</pubDate></item><item><title>故乡的河流</title><link>/archives/3/</link><description>&lt;p&gt;我不知道&lt;br&gt;
+你从哪里来&lt;br&gt;
+是在山涧的泉声里&lt;br&gt;
+森林的翠绿中&lt;br&gt;
+或是抚摸着山野&lt;br&gt;
+弥漫的，云与风&lt;br&gt;
+可我相信&lt;br&gt;
+你是自然的精灵&lt;br&gt;
+带着泥土的芬芳&lt;br&gt;
+在这里出发，汇聚&lt;br&gt;
+大地，有了你的血脉&lt;br&gt;
+躯体，融入了你的基因&lt;br&gt;
+&lt;br&gt;
+河水滋润着&lt;br&gt;
+两岸的炊烟&lt;br&gt;
+太阳也为你&lt;br&gt;
+折射闪烁的光芒&lt;br&gt;
+静静的月亮摇晃地&lt;br&gt;
+倒映在你的怀里&lt;br&gt;
+我曾依偎你的身旁&lt;br&gt;
+轻轻听你&lt;br&gt;
+古老流淌的歌唱&lt;br&gt;
+&lt;br&gt;
+啊，故乡的母亲河&lt;br&gt;
+你藏着父亲无限的希冀&lt;br&gt;
+流动着母亲温暖乳汁&lt;br&gt;
+你的儿女永远记取&lt;br&gt;
+是你蜿蜒流去的远方&lt;br&gt;
+给了孩子&lt;br&gt;
+追寻梦想的方向&lt;br&gt;
+&lt;br&gt;
+如今，故乡的河&lt;br&gt;
+我的背影早已印在&lt;br&gt;
+出发的地方&lt;br&gt;
+那里，有家乡的犁耙、挑担&lt;br&gt;
+和田野上劳作的姑娘&lt;br&gt;
+请你啊&lt;br&gt;
+把故乡的记忆和深情&lt;br&gt;
+托付遥远的&lt;br&gt;
+星河月光&lt;br&gt;
+让我&lt;br&gt;
+在异乡的夜空里&lt;br&gt;
+拥抱那&lt;br&gt;
+无尽的乡愁&lt;/p&gt;
+</description><author>takagi@189.cn (LeeJie120s)</author><guid isPermaLink="true">/archives/3/</guid><pubDate>Sun, 20 Jun 2021 12:41:00 +0806</pubDate></item></channel></rss>
