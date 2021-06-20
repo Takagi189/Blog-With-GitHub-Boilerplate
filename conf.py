@@ -88,6 +88,6 @@ body_addon = ''
 valine = {
     "enable": True,
     "el": '#vcomments',
-    "appId": "<your appId here>",
-    "appKey": "<your appKey here>",
+    "appId": "sse2l6tTU3jL8zqg1bmDYL12-gzGzoHsz",
+    "appKey": "dTfsX5MP9OUMV1stXIuQUTlW",
 }
