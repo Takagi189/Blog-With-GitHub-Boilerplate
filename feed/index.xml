@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Takagi</title><link>/</link><description>这个世界很简单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/Takagi189/Takagi189.github.io@gh-pages/logo.png</url><title>Takagi</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Mon, 21 Jun 2021 01:32:49 +0806</lastBuildDate><pubDate>Mon, 21 Jun 2021 01:32:49 +0806</pubDate><item><title>你不知道的故事</title><link>/archives/1/</link><description>&lt;p&gt;那是在一如往常的一天发生的事情&lt;br&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Takagi</title><link>/</link><description>这个世界很简单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/Takagi189/Takagi189.github.io@gh-pages/logo.png</url><title>Takagi</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Mon, 21 Jun 2021 01:45:18 +0806</lastBuildDate><pubDate>Mon, 21 Jun 2021 01:45:18 +0806</pubDate><item><title>你不知道的故事</title><link>/archives/1/</link><description>&lt;p&gt;那是在一如往常的一天发生的事情&lt;br&gt;
 你突然站起来说道&lt;br&gt;
 今晚去看星星吧&lt;br&gt;
 你偶尔也会说点好话嘛&lt;br&gt;
@@ -91,8 +91,6 @@
 &lt;p align="right"&gt;﻿一九一九年三月。&lt;/p&gt;</description><author>takagi@189.cn (鲁迅)</author><guid isPermaLink="true">/archives/4/</guid><pubDate>Sun, 20 Jun 2021 15:05:00 +0806</pubDate></item><item><title>老司机百科</title><link>/archives/5/</link><description>&lt;p&gt;老司机的标准不低，成为合格的老司机，善用搜索引擎是必须技能。&lt;/p&gt;
 &lt;p&gt;老司机并不在于收藏夹中有多少网站。是可以随时找到想要的网站。&lt;/p&gt;
 &lt;p&gt;掌握下方精髓是成为老司机的前提，今天开始做个不错的老司机吧。&lt;/p&gt;
-&lt;p&gt;谷歌大全    快速找回网址  磁力搜索网站
-简单搜索    手机下载神器  图片找出处&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;
 &lt;th style="text-align:center"&gt;谷歌大全&lt;/th&gt;
@@ -110,9 +108,10 @@
 &lt;/table&gt;
 &lt;p&gt;用百度、360、搜狗等国内搜索引擎是成不了老司机的，搜索引擎先看谷歌大全&lt;/p&gt;
 &lt;h2&gt;磁力链接&lt;/h2&gt;
-&lt;p&gt;链接为：&lt;code&gt;magnet:?xt=urn:btih:&lt;/code&gt;的资源&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;链接为：&lt;code&gt;magnet:?xt=urn:btih:&lt;/code&gt;的资源&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;老司机怎么找磁力链接？？在磁力搜索网站中找到一些好用的磁力搜索网站，发挥&lt;strong&gt;想象力&lt;/strong&gt;搜索。&lt;/p&gt;
-&lt;p&gt;如果找不到，可以在谷歌中搜索xxxmagnet或xxx磁力等。也可以按时间搜索等进阶搜索。&lt;/p&gt;
+&lt;p&gt;如果找不到，可以在谷歌中搜索 xxx magnet 或 xxx 磁力 等。也可以按时间搜索等进阶搜索。&lt;/p&gt;
 &lt;p&gt;磁力可使用手机下载神器中的下载工具，热门磁力都可以免费且高速的下载。&lt;/p&gt;
 &lt;h2&gt;车牌&lt;/h2&gt;
 
@@ -120,7 +119,7 @@
 &lt;p&gt;车牌就是片子的名称，一般日本爱情动作片会根据公司加系列编号等命名，也就是所谓的车牌番号。&lt;/p&gt;
 &lt;p&gt;在不知道车牌网站的前提下，可以到任意搜索引擎中搜索：番号推荐等进行搜索。&lt;/p&gt;
 &lt;h2&gt;油猴、暴力猴脚本&lt;/h2&gt;
-&lt;p&gt;SleazyFork是一个提供18+用户脚本的网站。greasyfork是一个提供海量脚本的网站。&lt;/p&gt;
+&lt;p&gt;SleazyFork 是一个提供18+用户脚本的网站。greasyfork 是一个提供海量脚本的网站。&lt;/p&gt;
 &lt;h2&gt;快速找到最新地址&lt;/h2&gt;
 &lt;p&gt;老司机经常在收藏夹保存了很多书签，但一段时间不访问就会发现已经无法打开，这时候不一定是网站的服务器出现问题，可能是不可言说的问题，利用快速找到最新地址中的网站大概率可以重新找回最新网址。&lt;/p&gt;
 &lt;p&gt;非完整域名，可以尝试在网址后面加上&lt;code&gt;.com&lt;/code&gt;或其他&lt;code&gt;.me&lt;/code&gt; &lt;code&gt;.xyz&lt;/code&gt; &lt;code&gt;.top&lt;/code&gt;等后缀。&lt;/p&gt;
